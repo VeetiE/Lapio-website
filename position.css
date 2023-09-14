@@ -3,6 +3,10 @@
     height: 100px;
     background-color: red;
     position: absolute;
+    text-align: center;
+    text-transform: uppercase;
+    border-style: solid;
+    border-color: green;
 }
 
 .second-box-container {
@@ -11,6 +15,10 @@
     background-color: yellow;
     margin-left: 250px;
     position: absolute;
+    text-align: center;
+    text-transform: uppercase;
+    border-style: solid;
+    border-color: red;
 
 }
 
@@ -20,4 +28,8 @@
     background-color: green;
     margin-left: 500px;
     position: absolute;
+    text-align: center;
+    text-transform: uppercase;
+    border-style: solid;
+    border-color: yellow;
 }
